@@ -1,5 +1,4 @@
 from gturtle import *
-import webbrowser
 import backgrounds
 import attacks
 import texts
